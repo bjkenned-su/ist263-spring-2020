@@ -1,0 +1,21 @@
+* {
+    font-family: 'Open Sans, Arial, sans-serif';
+    font-size: 1.2em;
+}
+header.jumbotron {
+    background-color: #ccc;
+    margin: 1em;
+    padding: 2em;
+    width: 90%;
+    height: 5em;
+}
+h1{
+    font-family: 'georgia, times new roman, times, serif';
+    font-size: '1.5em';
+    color: orange;
+}
+h2{
+    font-family: 'georgia, times new roman, times, serif';
+    font-size: '1.2em';
+    color: #666;
+}
